@@ -1,4 +1,5 @@
-#Project 2
+Project 2
+
 This project aims to analyze the Zomato restaurant dataset to understand various characteristics of restaurants, including their ratings, costs, and other attributes. The goal is to preprocess and clean the raw data, perform exploratory data analysis to uncover key insights, and prepare the dataset for potential future modeling or deeper investigation into restaurant performance and customer preferences.
 
 
